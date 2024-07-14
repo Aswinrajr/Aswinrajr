@@ -1,4 +1,4 @@
-[![MasterHead](https://e1.pxfuel.com/desktop-wallpaper/411/249/desktop-wallpaper-be-your-awesome-mern-stack-developer-by-nishant08111-mern-stack-thumbnail.jpg)]
+
 
 
 <h1 align="center">Hi 👋, I'm Aswinraj R</h1>
