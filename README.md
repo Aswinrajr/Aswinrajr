@@ -1,14 +1,13 @@
 <h2>👨‍💻 About Me</h2>
 <strong>Aswinraj R | MERN Full Stack Developer</strong><br><br>
-I'm a passionate MERN full-stack developer dedicated to creating scalable and efficient web applications. My expertise lies in transforming ideas into clean, maintainable code. I'm constantly learning new technologies and improving my skills to stay at the forefront of web development. I enjoy tackling challenging problems and collaborating with others to build innovative solutions.
-<br/>
+I'm a passionate MERN full-stack developer dedicated to creating scalable and efficient web applications. My expertise lies in transforming ideas into clean, maintainable code. I'm constantly learning new technologies and improving my skills to stay at the forefront of web development. I enjoy tackling challenging problems and collaborating with others to build innovative solutions.<br><br>
 
-🔹## Technical Expertise:
+🔹 Technical Expertise:
 
 <strong>MongoDB</strong>: Proficient in designing and managing scalable, NoSQL databases for complex data-driven applications.<br>
 <strong>Express.js</strong>: Expertise in building robust back-end systems and RESTful APIs for seamless data communication.<br>
 <strong>React</strong>: Skilled in creating dynamic, responsive, and user-friendly front-end applications.<br>
-<strong>Node.js</strong>: Strong ability to develop efficient server-side logic and integrate with various APIs and databases.<br>
+<strong>Node.js</strong>: Strong ability to develop efficient server-side logic and integrate with various APIs and databases.<br><br>
 
 🚀 Vision: To become a leading full-stack developer who creates innovative, scalable, and impactful web solutions that empower businesses and enhance user experiences. I strive to continuously expand my knowledge, embrace new technologies, and contribute to building a digital world that is accessible, efficient, and transformative.<br><br>
 
