@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswinraj R V</h1>
 <h3 align="center">A Passionate MERN Full Stack Developer From India</h3>
-<img align="right" alt="coding" width="400" src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2024/02/8219f-code-typing-1.gif?resize=500%2C500&ssl=1">
+<img align="right" alt="programming" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 
 I'm a passionate MERN full-stack developer dedicated to creating scalable and efficient web applications. My expertise lies in transforming ideas into clean, maintainable code. I'm constantly learning new technologies and improving my skills to stay at the forefront of web development. I enjoy tackling challenging problems and collaborating with others to build innovative solutions.<br><br>
