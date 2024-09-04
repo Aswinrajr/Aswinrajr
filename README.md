@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aswinraj R</h1>
 <h3 align="center">A Passionate MERN Full Stack Developer From India</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/4Y40f8a0qaayIZsXbi/giphy.gif">
+<img align="right" alt="programming" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+
+
 
 
 
