@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aswinraj R</h1>
 <h3 align="center">A Passionate MERN Full Stack Developer From India</h3>
-<img align="right" alt="programming" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/4Y40f8a0qaayIZsXbi/giphy.gif">
 
-<p style="background-image: url('https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'); background-size: cover; padding: 20px;">
+
+
+
 I'm a passionate MERN full-stack developer dedicated to creating scalable and efficient web applications. My expertise lies in transforming ideas into clean, maintainable code. I'm constantly learning new technologies and improving my skills to stay at the forefront of web development. I enjoy tackling challenging problems and collaborating with others to build innovative solutions.<br><br>
 
 🔹 Technical Expertise:
