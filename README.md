@@ -14,7 +14,7 @@ I'm a passionate MERN full-stack developer dedicated to creating scalable and ef
 
 📈 Let’s Connect: I’m always eager to discuss new opportunities, collaborate on challenging projects, and share knowledge about technology and development.<br><br>
 
-## 🔗 Connect
+## 🔗 Connect 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinrajr07) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/a_sw_i_nr_aj?igsh=Z3Z2YjY1MjlrcDM5) 
@@ -22,13 +22,13 @@ I'm a passionate MERN full-stack developer dedicated to creating scalable and ef
 
 ## 🛠️ Skills
 
-### Languages
+### Languages  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br><br>
 
 
-### Front-End Development
+### Front-End Development  
 
 ![React](https://img.shields.io/badge/react-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
