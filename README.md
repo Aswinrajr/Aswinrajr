@@ -61,7 +61,7 @@ I'm a passionate MERN full-stack developer dedicated to creating scalable and ef
 
 ![Firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)<br><br>
 
-## CI/CD
+## CI/CD  
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br><br>
